@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eagro-lhqn",
+  "private_key_id": "4d829db9cc85fcb819ef89cc2e631a0239ce8f4d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC6tQdsMds1IhUm\ne+QTN304p3m+a4DMloK4W8buaukbvjS2zNLtw+2L0TCvIKfkgZappsRXCjBwxkp6\nR+Ym25ccpnjoMkXngLAB5W4ZH2ne2aUiU8VCAWi/aEc/F+Ug48Bu3FpDfA27p+fK\nmxDsCujwY7OtpOwl+5+X1t2CuwLRdQv3hLxamYyZEJjjm0U+hImemgc5b9kg1W+1\n8mzwFN0AWSIBUtvd5gkiZvsIs0n1743HDJCm+GntnIkpL6psOLIndG8QCMz2ehV3\nAJS/pmrr5P1mKrPrsO0KqLSYO/wQOvFY/wbpLtexzoPm8hJUm8vHKFzruS/M/5Yw\ngjmdDAV7AgMBAAECggEAFQ5bcvFAdoKMfhWUyDIG1j/U9Autr+T9gwseqT63YWCX\nE1KQKy5geNcztVxqctPGiQV8uRA2HFHQjm/TXeh/50RC+HTK+2vA7cXRH9YyG2bS\nP8fQxDvic0uwVUY9mfL1fcsuBtRTvCkYc/n+84/ba1jjJ58k3re87OPXgWnTzIlE\nS2VW5c4PIx5drm8Qd4kSWFgd4BWt+CByRIh++fhB613eICU20PznbhdylDhZD5+U\ncy/s6oWq7S6YZ6t3IX86EE+IPXSrZxX1skynVoV+XRefu/fcI3BtEbWGL0W1Uaz0\n9enQeRAPMi0R1tWWJFiX3HBKqBnRtOiTCjRrnv5Z4QKBgQDqvNfGcNRQ1IXDMaVl\n5JVfHu/kc7HK5MMYYPn97ye6M3LiZjOjYocQ+GviwyrnWcEJI95XPZYgzW6pkbmV\nU0+9kqO7DhuVhPDvSP+Zqit3ZzjLln6WLgQBtEQUTRijEcvianXrooevc6VbCOQ8\n8mhOA+tfbd7ZQvNh74awmD21iwKBgQDLnnEq3iJN6UZCzsl4vI+bgP/aptyjUVvc\neebAUINtsq/RLwJM4D4naJu3eTaZIRhh+WDcDNlZ5SPgsNq+XkZixtg8IVhjMroQ\nUKDgX3hbgxRsJ1E5yUs5441COit3fttzAHNXX/0U+gVp/N2wdpOiuAuYTd1SztOT\nKoWjSzBN0QKBgEcLTpcNsQShvbY9AV0cWKUIXPyck3Pf1rg7KY5UYoa1aZDh88EA\nYfad6TEhdou8m3LjuzhWOGjHJDYIF839AAZVKl7Dv096g904D7v3R96EjCj57GgR\nlz7Yyz4Fs24vRbDKHdRqRXyxmJs7zrAvgagTAZrJSwggfj7m2rH58btPAoGAUSDP\n9kSLZn+LfxLlMzXuAgdj6bqSLoA8GZx4VCfANfT8GFyijf7KxOjpIjEpj9mf3Wl/\nLi3wa+DgaqYMgc0OPkz72vluPhf4CogVkVB4o/2WJYGE24FYd7gykDCdIP9qcGe9\njRKxw6nafmBB9A1KxYqPFB/yDwxZQEmw9V7/4AECgYAMMAK9VC8NdrBKum1GYb6L\nr1gb5IH4vhbt24/f41sACJ4y7E/Pc09PmbhJS3JqzYfNQ44kWLr81jszDDa9ULTI\n2oNWtCXGTUbT5WvL41XhLO9rpC87L/Rlhurp0R/TEs2oUtQZWuk/8jgPAzuOYChg\nsGvFSlV5S4HEaF62FpTanQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "eagrooo123@eagro-lhqn.iam.gserviceaccount.com",
+  "client_id": "117638405981813486915",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eagrooo123%40eagro-lhqn.iam.gserviceaccount.com"
+}
